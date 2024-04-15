@@ -1,0 +1,10 @@
+[api-updater (non-obsolete-error-filter)] 15/04/2024 12:15:17 : Starting C:/Users/marcb/OneDrive/Documentos/2020.2.4f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1144,8447ms
+moved types parse time: 48ms
+candidates parse time : 1ms
+C# parse time         : 388ms
+candidates check time : 28ms
+console write time    : 0ms
+
